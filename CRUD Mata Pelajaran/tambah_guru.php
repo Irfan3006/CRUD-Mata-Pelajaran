@@ -15,7 +15,7 @@ include "koneksi.php";
         <br/>
         <br/>
         <br/>
-        <h3>TAMBAH DATA JADWAL</h3>
+        <h3>TAMBAH DATA GURU</h3>
         <form method="post" action="tambah_guru_aksi.php">
             <div class="form-group">
                 <label for="nama_guru">Nama Guru</label>
